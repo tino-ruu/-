@@ -1,0 +1,75 @@
+body {
+  margin: 0%;
+}
+
+div.header-in {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+div.profile-in {
+  background-color: black;
+  font-size: 2rem;
+  color: blanchedalmond;
+  margin-left: 20px;
+  margin-top: 10px;
+  width: 100px;
+}
+div.about-in {
+  display: flex;
+  justify-content: flex-end;
+  justify-content: space-between;
+  width: 200px;
+  margin: auto;
+  margin-right: 3px;
+  inline-size: 2pxs;
+}
+div.img-1 {
+  height: 400px;
+}
+h1.About-in {
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  /* margin: auto; */
+}
+/* p.p-in {
+  font-family: "Courier New", Courier, monospace;
+} */
+div.tekisuto {
+  font-size: 13px;
+}
+/* section.section-in {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+h1.Bicycle-in {
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+}
+p.taitoru-in {
+  display: flex;
+  justify-content: center;
+}
+div.tekisuto-in {
+  display: flex;
+  justify-content: center;
+}
+.img-in {
+  height: 300px;
+}
+/* div.div-in {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+footer {
+  font-size: 0.5rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
